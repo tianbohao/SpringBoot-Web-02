@@ -1,5 +1,5 @@
 # SpringBoot-Web-02
-这是我根据SpringBoot-Web-01仓库里的小项目写的，主要实现了展示一个简单的前端页面。
+这是我根据SpringBoot-Web-01仓库里的小项目写的，主要展示一个简单的前端页面。
 
 ## 运行方式
 1. 克隆仓库：git clone https://github.com/tianbohao/SpringBoot-Web-02.git
